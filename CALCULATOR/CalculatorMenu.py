@@ -1,0 +1,11 @@
+def menu():
+    print("="*50)
+    print("Arithmetic Operation Calculator")
+    print("="*50)
+    print("\t1.Addition")
+    print("\t2.Subtraction")
+    print("\t3.Multiplication")
+    print("\t4.Division")
+    print("\t5.Modulo Division")
+    print("\t6.Exponentiation")
+    print("="*50)
